@@ -1,111 +1,87 @@
-Experienced with deploying contracts to BNB Smart Chain using Hardhat and ethers.js.
+# 🚀 Flashloan Arbitrage Smart Contract System
 
-# BSC Flashloan & Arbitrage Deployment Setup
+## 👨‍💻 Web3 Developer Portfolio
 
-Professional smart contract deployment and debugging setup for BNB Smart Chain using Hardhat and ethers.js.
+Hi, I am a Solidity and Web3 developer specializing in smart contract development, deployment, and automation systems.
 
----
-
-## 🚀 Overview
-
-This project demonstrates:
-
-- Smart contract deployment to BSC testnet & mainnet
-- Proper Hardhat configuration
-- Environment variable security setup
-- Deployment scripts with error handling
-- Arbitrage / Flashloan contract structure
-- Common Hardhat debugging fixes
+I build production-style blockchain solutions including DeFi interaction scripts and contract architecture design.
 
 ---
 
-## 🛠 Tech Stack
+## 📌 Project Overview
 
-- Hardhat
-- ethers.js
-- Solidity ^0.8.x
-- Node.js
-- BNB Smart Chain
+This project demonstrates a flashloan arbitrage smart contract system designed for experimentation and development on :contentReference[oaicite:1]{index=1}.
+
+The system explores DeFi borrowing, swapping, and repayment execution pipelines.
+
+⚠️ Note: This is a development portfolio project and is not guaranteed to be profitable in production trading environments.
+
+---
+
+## ⚙️ Technical Features
+
+- Flashloan borrowing logic implementation  
+- Swap execution pipeline architecture  
+- Smart contract repayment mechanism  
+- Testnet development support  
+- Automation script integration  
+
+---
+
+## 🧠 Technologies Used
+
+- Solidity  
+- Hardhat Development Framework  
+- Node.js Blockchain Scripts  
+- Web3 Contract Interfaces  
 
 ---
 
 ## 📂 Project Structure
 
-```
-contracts/
-scripts/
-hardhat.config.js
-.env (not included)
-```
+- contracts/ → Solidity smart contracts  
+- scripts/ → Deployment and automation scripts  
+- interfaces/ → Protocol interface definitions  
 
 ---
 
-## ⚙️ Installation
+## 🔧 How To Run Project
+**NPM INSTALL**
+1. Install dependencies:
 
-Clone the repository:
+2. Compile contracts:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-```
+**NPX HARDHAT COMPILE**
+3. Deploy contract:
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-Create a `.env` file:
-
-```
-BSC_TESTNET_RPC=YOUR_RPC_URL
-BSC_MAINNET_RPC=YOUR_RPC_URL
-PRIVATE_KEY=YOUR_PRIVATE_KEY
-```
+**NPX HARDHAT RUN SCRIPTS/DEPLOY.JS**
 
 ---
 
-## 🚀 Deploy to BSC Testnet
+## 💼 Developer Services Available
 
-```bash
-npx hardhat run scripts/deploy.js --network bscTestnet
-```
+I am available for paid Web3 development work including:
 
----
+- Smart contract development and deployment  
+- DeFi contract debugging  
+- Automation script writing  
+- Token and staking contract implementation  
+- Blockchain integration systems  
 
-## 🔍 Common Errors Fixed
-
-This project addresses common issues such as:
-
-- HH8 network config error
-- Missing or invalid PRIVATE_KEY
-- Invalid RPC URL
-- Gas estimation failed
-- Router address mismatch
-- Deployment script execution errors
+💰 Payment accepted in cryptocurrency (USDT / BNB / ETH).
 
 ---
 
-## 📈 Purpose
+## 📞 Contact
 
-This repository serves as:
-
-- A professional deployment template
-- A debugging reference for BSC developers
-- A base structure for arbitrage/flashloan projects
+- Telegram: lovefromfans1
+- Email: onyebuchukwumontana@gmail.com  
 
 ---
 
-## 💼 Services
+⭐ I can start working immediately on Solidity/Web3 development tasks.
 
-I provide:
 
-- BSC Smart Contract Deployment
-- Hardhat Configuration Fixes
-- Deployment Script Debugging
-- Gas Optimization Guidance
-- Router & DEX Integration Assistance
 
-For inquiries, contact: YOUR_EMAIL_OR_TELEGRAM
 
----
+1. Install dependencies:
