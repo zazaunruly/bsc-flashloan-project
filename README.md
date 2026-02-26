@@ -1,12 +1,19 @@
 # 🚀 Flashloan Arbitrage Smart Contract System
+## ⭐ Available for Web3 Development Work
 
+I am currently open to paid smart contract and blockchain development projects.
+
+Payment accepted in cryptocurrency (USDT / BNB / ETH).
 ## 👨‍💻 Web3 Developer Portfolio
 
 Hi, I am a Solidity and Web3 developer specializing in smart contract development, deployment, and automation systems.
 
 I build production-style blockchain solutions including DeFi interaction scripts and contract architecture design.
 
----
+I focus on delivering clean production-ready Solidity code and fast communication with clients.
+I can start working immediately on new development tasks.
+
+**Web3 Development | Smart Contracts | DeFi Automation | BNB Smart Chain Solutions**
 
 ## 📌 Project Overview
 
